@@ -1,0 +1,15 @@
+E:\Gdm_Toddy\Homework5\bin\Debug\net6.0\Homework5.exe
+E:\Gdm_Toddy\Homework5\bin\Debug\net6.0\Homework5.deps.json
+E:\Gdm_Toddy\Homework5\bin\Debug\net6.0\Homework5.runtimeconfig.json
+E:\Gdm_Toddy\Homework5\bin\Debug\net6.0\Homework5.dll
+E:\Gdm_Toddy\Homework5\bin\Debug\net6.0\Homework5.pdb
+E:\Gdm_Toddy\Homework5\obj\Debug\net6.0\Homework5.csproj.AssemblyReference.cache
+E:\Gdm_Toddy\Homework5\obj\Debug\net6.0\Homework5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gdm_Toddy\Homework5\obj\Debug\net6.0\Homework5.AssemblyInfoInputs.cache
+E:\Gdm_Toddy\Homework5\obj\Debug\net6.0\Homework5.AssemblyInfo.cs
+E:\Gdm_Toddy\Homework5\obj\Debug\net6.0\Homework5.csproj.CoreCompileInputs.cache
+E:\Gdm_Toddy\Homework5\obj\Debug\net6.0\Homework5.dll
+E:\Gdm_Toddy\Homework5\obj\Debug\net6.0\refint\Homework5.dll
+E:\Gdm_Toddy\Homework5\obj\Debug\net6.0\Homework5.pdb
+E:\Gdm_Toddy\Homework5\obj\Debug\net6.0\Homework5.genruntimeconfig.cache
+E:\Gdm_Toddy\Homework5\obj\Debug\net6.0\ref\Homework5.dll
